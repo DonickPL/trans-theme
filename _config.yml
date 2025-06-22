@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: trans-theme
+description: "A simple LGTBQ+ theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
